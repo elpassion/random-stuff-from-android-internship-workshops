@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWorkshopApp</string>
+    <string name="action_settings">Settings</string>
+
+    <plurals name="cat_count">
+        <item quantity="one">Jeden kot</item>
+        <item quantity="few">{cats_count} koty</item>
+        <item quantity="other">{cats_count} kotów</item>
+    </plurals>
+</resources>
